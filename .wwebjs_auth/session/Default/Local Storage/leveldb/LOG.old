@@ -1,0 +1,6 @@
+2026/03/26-16:50:21.475 43c Reusing MANIFEST C:\ERPPrime\zapbot\.wwebjs_auth\session\Default\Local Storage\leveldb/MANIFEST-000001
+2026/03/26-16:50:21.485 43c Recovering log #3
+2026/03/26-16:50:21.488 43c Reusing old log C:\ERPPrime\zapbot\.wwebjs_auth\session\Default\Local Storage\leveldb/000003.log 
+2026/03/26-17:29:45.991 43c Level-0 table #5: started
+2026/03/26-17:29:45.996 43c Level-0 table #5: 17842 bytes OK
+2026/03/26-17:29:46.001 43c Delete type=0 #3
